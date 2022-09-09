@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @antishsh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anteneh Shimelis
+- 👀 I’m interested in Programming, UI/UX
+- 🌱 I’m currently learning Software Engineering at ALX-Africa
+- 💞️ I’m looking to collaborate on Web Development, Object Oriented Design, and Mobile app Development 
+- 📫 How to reach me @AShimelis on Twitter, @abush_borena  on Instagram
 
 <!---
 antishsh/antishsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
